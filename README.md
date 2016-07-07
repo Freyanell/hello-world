@@ -1,2 +1,3 @@
 # hello-world
 Learning and testing
+My name is Freya and I am trying to teach myself how to create a conversational bot that will give answers to users. I have an online help file and would like to use the info therein to be used as answers for questions. I cannot code and know very little about developing apps and even less about how bots work. So I'm here to learn...
